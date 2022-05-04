@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Abdelrahman Mostafa
 
+I'm an electronics and electrical communications engineering student at Ain Shams University who's enthusiastic about Physics and programming.
+
 <!--
 **bobo122b/bobo122b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
