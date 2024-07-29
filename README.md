@@ -29,7 +29,7 @@ I'm an electronics and electrical communications engineering student at Ain Sham
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobo122b&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-mos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### badges reference:
 badges used here are from [this](https://github.com/Ileriayo/markdown-badges) repository, hope you liked it.
