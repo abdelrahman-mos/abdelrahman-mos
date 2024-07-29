@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bobo122b&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-I'm an electronics and electrical communications engineering student at Ain Shams University who's enthusiastic about Physics and programming.
+I'm an Analog IC Design Automation Engineer at Master-Micro.
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mostafa-a296121b7/)
