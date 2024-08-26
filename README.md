@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Abdelrahman Mostafa
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdelrahman-mos)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdelrahman-mos&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdelrahman-mos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
